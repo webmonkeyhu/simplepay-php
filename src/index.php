@@ -1,9 +1,7 @@
 <?php
 
 /**
- *  Copyright (C) 2016 OTP Mobil Kft.
- *
- *  PHP version 5
+ * Copyright (C) 2020 Webmonkey Solutions Kft.
  *
  *  This program is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
@@ -18,12 +16,8 @@
  *  You should have received a copy of the GNU General Public License
  *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
- * @category  SDK
- * @package   SimplePay_SDK
- * @author    SimplePay IT <itsupport@otpmobil.com>
- * @copyright 2016 OTP Mobil Kft.
+ * @copyright 2020 Webmonkey Solutions Kft.
  * @license   http://www.gnu.org/licenses/gpl-3.0.html  GNU GENERAL PUBLIC LICENSE (GPL V3.0)
- * @version   1.0
- * @link      http://simplepartner.hu/online_fizetesi_szolgaltatas.html
  *
+ * Forked from Original software from Copyright (C) 2019 OTP Mobil Kft.
  */

@@ -1,0 +1,6 @@
+.idea
+.DS_store
+/vendor/
+composer.phar
+composer.lock
+.phpcs-cache
