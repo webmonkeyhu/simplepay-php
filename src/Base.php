@@ -223,7 +223,7 @@ class Base
         }
 
         if (@unserialize((string)$data) !== false) {
-            $json = json_encode($result);
+            $json = json_encode($data);
         }
 
         return $json;

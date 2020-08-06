@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Webmonkey\SimplePay\Traits;
 
+use Exception;
 use function base64_encode;
 use function hash_equals;
 use function hash_hmac;

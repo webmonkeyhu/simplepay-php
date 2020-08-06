@@ -11,7 +11,7 @@ final class Query extends Base
     protected $currentInterface = 'query';
     protected $returnData       = [];
 
-    protected $transactionBase = [
+    public $transactionBase = [
         'salt'     => '',
         'merchant' => '',
         'currency' => '',
